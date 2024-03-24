@@ -8,7 +8,7 @@ This repository hosts a dataset of medical EEG (Electroencephalography) recordin
 
 ## Dataset Description
 - **Dataset Name**: Medical EEG Dataset
-- **Format**: CSV (Comma-Separated Values)
+- **Format**: PNG
 - **Number of Samples**: 700
   
 ## Usage
